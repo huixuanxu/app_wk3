@@ -1,0 +1,62 @@
+[
+   {
+      "title": "Popular Books",
+      "horizontal": true,
+      "data": [
+         {
+            "title": "Fashionopolis",
+            "author": "Dana Thomas",
+            "image": "https://github.com/huixuanxu/app_wk3/blob/main/images/popularbook01.png?raw=true",
+            "star": "4",
+            "StarAppear":false,
+            "info": "An investigation into the damage wrought by the colossal clothing industry and the grassroots, high-tech, international movement fighting to reform it."
+         },
+         {
+            "title": "Chanel",
+            "author": "Patrick Mauriès",
+            "image": "https://github.com/huixuanxu/app_wk3/blob/main/images/popularbook02.png?raw=true",
+            "star": "3",
+            "StarAppear":false,
+            "info": "Celebrating eighty years of Chanel jewelry from the iconic 1932 designs to the new 2012 anniversary collection."
+         },
+         {
+            "title": "Calligraphy",
+            "author": "June & Lucy",
+            "image": "https://github.com/huixuanxu/app_wk3/blob/main/images/popularbook03.png?raw=true",
+            "star": "3",
+            "StarAppear":false,
+            "info": "Modern Calligraphy, Hand Lettering, Brush Lettering Workbook."
+         }
+      ]
+   },
+   {
+      "title": "Newest",
+      "horizontal": true,
+      "data": [
+         {
+            "title": "Yves Saint Laurent",
+            "author": "Suzy Menkes",
+            "image": "https://github.com/huixuanxu/app_wk3/blob/main/images/newest01.png?raw=true",
+            "star": "4",
+            "StarAppear":true,
+            "info": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+         },
+         {
+            "title": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "image": "https://github.com/huixuanxu/app_wk3/blob/main/images/newest02.png?raw=true",
+            "star": "3",
+            "StarAppear":true,
+            "info": "This unusual collection of primitive and medieval symbols provides one of the most fertile single sources of decorative ideas available today."
+         },
+         {
+            "title": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "image": "https://github.com/huixuanxu/app_wk3/blob/main/images/newest03.png?raw=true",
+            "star": "3",
+            "StarAppear":true,
+            "info": "Beautifully illustrated with specially commissioned designs, Stitched Up delves into the alluring world of fashion to reveal what is behind the clothes we wear."
+         }
+      ]
+   }
+]
